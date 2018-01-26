@@ -25,3 +25,5 @@ To know about the rules, [read this wiki page](https://en.wikipedia.org/wiki/Rev
 
 ## Author
 Deepak Aggarwal
+
+Created as a college project in June 2015.
