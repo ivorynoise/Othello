@@ -19,9 +19,9 @@ To know about the rules, [read this wiki page](https://en.wikipedia.org/wiki/Rev
 3) Run  `java othello.UIClass`
 
 ## Screenshots
-![Terminal Othello](https://octodex.github.com/images/yaktocat.png)
+![Terminal Othello](https://github.com/aggarwaldeepak/Othello/blob/master/assets/cui.png)
 
-![GUI Othello](./assets/gui.png)
+![GUI Othello](https://github.com/aggarwaldeepak/Othello/blob/master/assets/gui.png)
 
 ## Author
 Deepak Aggarwal
