@@ -19,8 +19,8 @@ To know about the rules, [read this wiki page](https://en.wikipedia.org/wiki/Rev
 3) Run  `java othello.UIClass`
 
 ## Screenshots
-    <p align="center"><img src="assets/cui.png" width="400" height="300"/></p>
-    <p align="center"><img src="assets/gui.png" width="400" height="400"/></p>
+<p align="center"><img alt="Character based interface" src="assets/cui.png" width="400" height="300"/></p>
+<p align="center"><img alt="Graphic based interface" src="assets/gui.png" width="400" height="400"/></p>
 
 ## Author
 Deepak Aggarwal
